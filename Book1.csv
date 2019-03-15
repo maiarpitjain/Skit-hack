@@ -1,0 +1,26 @@
+id,name,address,email,mnumber,p_type,d_name,p_description,c_name
+1,ritesh,"sector 1, pratap nagar, jaipur",riteshj@gmail.com,7737543245,faulty,tv,not working,sony
+2,nishu,"sector 2, malviya nagar, jaipur",nishu23@gmail.com,8005634567,faulty,refrigerator,not working,samsung
+3,abhishek,"sector 4, malviya nagar, jaipur",abhijain@gmail.com,8005645434,faulty,washing machine,not working,haier
+3,akshay,"vijay path, jaipur",akkujain@gmail.com,7023456789,faulty,ro,not working,kent
+5,yash,"Sfs, jaipur",yashjain@gmail.com,6354767676,faulty,small appliances,not working,kenstar
+6,ayush,"meera marg, jaipur",ayush@gmail.com,6848438418,faulty,ro,not working,pureit
+7,rajesh,"swarn path, jaipur",rajesh@gmail.com,7483483445,faulty,tv,not working,samsung
+8,ramesh,"b2 bypass, jaipur",ramesh@gmail.com,8165313515,faulty,refrigrator,not working,lg
+9,suresh,"sanganer thana, jaipur",suresh@gmail.com,5958434384,faulty,small appliances,not working,kenstar
+10,rahul,"vaishali nagar, jaipur",rahul@gmail.com,8643843484,faulty,tv,not working,samsung
+11,rohan,"ajmeri gate, jaipur",rohan@gmail.com,6843848348,faulty,washing machine,not working,lg
+12,mahesh,"sanganeri gate, jaipur",mahesh@gmail.com,8486483438,faulty,ro,not working,kent
+13,kanika,"vki, jaipur",kanika@gmail.com,4683438437,faulty,small appliances,not working,prestige
+14,isha,"mahaveer nagar 1, jaipur",isha@gmail.com,8483438785,faulty,tv,not working,panasonic
+15,shaiphali,"maharani farm, jaipur",shaiphali@gmail.com,8434355544,faulty,ro,not working,kent
+16,maheesha,isckon road,heesha@gmail.com,6767676767,faulty,tv,not working,panasonic
+17,parul,muhana mandi road,parul@gmail.com,9079878787,faulty,washing machine,not working,lg
+18,sheena,kumbha marg,sheena@gmail.com,8954678904,faulty,small appliances,not working,prestige
+19,pahi,haldi ghati,pahi@gmail.com,7976797654,faulty,ro,not working,pureit
+20,kritika,"d block, malviya nagar",kritk@gmail.com,5444557547,faulty,refrigerator,not working,panasonic
+21,manish,"a block, malviya nagar",jnmanish@gmail.com,7677676767,faulty,tv,not working,sony
+22,nikhil,"sector 3, pratap nagar",nikhil@gmail.com,6653346364,faulty,ro,not working,kent
+23,archit,"sector 5, pratap nagar",archit@gmail.com,4256575676,faulty,washing machine,not working,samsung
+24,amit,sivdaspura,amit@gmail.com,8648374357,faulty,refrigrator,not working,panasonic
+25,ajay,ridhi sidhi,ajay@gmail.com,6843875434,faulty,small appliances,not working,prestige
